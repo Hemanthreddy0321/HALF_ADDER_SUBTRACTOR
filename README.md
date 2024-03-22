@@ -55,7 +55,10 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+![image](https://github.com/Hemanthreddy0321/HALF_ADDER_SUBTRACTOR/assets/150005937/4dc71e43-2b04-4034-b75d-ed9f6ab11f74)
 
 **Output/TIMING Waveform**
+![image](https://github.com/Hemanthreddy0321/HALF_ADDER_SUBTRACTOR/assets/150005937/5dc9b8d0-f967-417d-a8c3-f8aa61347593)
 
 **Result:**
+program implement of half_adder and half_subtractor circuit is excuted successfully.
